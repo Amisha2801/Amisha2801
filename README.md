@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Amisha Mehan 👋
 
-<!--
-**Amisha2801/Amisha2801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Software Engineering (Business Management) Student at McMaster University
 
-Here are some ideas to get you started:
+💼 5+ years of experience in IT Operations, Network Support, Technical Leadership, and Process Automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm passionate about building technology that improves business operations and simplifies everyday work.
+
+My background combines telecommunications, networking, software engineering, automation, and cloud technologies. I enjoy designing practical solutions that solve real-world problems while continuously learning new technologies.
+
+## Technical Interests
+
+- Networking & Infrastructure
+- Cloud Computing (Azure & Microsoft 365)
+- Process Automation
+- Full Stack Development
+- AI & Machine Learning
+
+## Featured Projects
+
+- 💰 Smart Expense Tracker *(Currently in Development)*
+- 🏛 Spendly Software Architecture
+- ⚙️ IT Automation & Workflow Improvements *(Coming Soon)*
+
+## Connect with Me
+
+- LinkedIn: *(We'll add this in a later step.)*
