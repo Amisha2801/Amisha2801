@@ -26,4 +26,4 @@ My background combines telecommunications, networking, software engineering, aut
 
 ## Connect with Me
 
-- LinkedIn: *(We'll add this in a later step.)*
+- LinkedIn: www.linkedin.com/in/amisha-mehan
